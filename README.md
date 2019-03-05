@@ -1,7 +1,7 @@
 # M3DMicroscope
 Converting Micro+ 3D printer into scanning microscope for slides and plates.
 
-![A completed built of the M3D+ printer based microscope](https://github.com/szepetamas/M3DMicroscope/tree/master/Images/MicroscopeTopView3.jpg)
+![A completed built of the M3D+ printer based microscope](Images/MicroscopeTopView3.jpg?raw=true "Title")
 
 ## License
 
